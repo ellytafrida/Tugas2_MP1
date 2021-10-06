@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">elly</string>
+    <string name="content_text"> LIPSTIK  </string>
+    <string name="texxt"> Lipstik sehat cocok buat anda yang ingin memakai lipstik sekaligus menyehatkan bibir. </string>
+    <string name="content_specs_bahan">Oil </string>
+    <string name="content_specs_warna">Merah </string>
+    <string name="content_specs_size">8 x 3</string>
+    <string name="content_price">Rp. 39.999</string>
+    <string name="_6_photo">6 Photo</string>
+    <string name="bahan">Bahan</string>
+    <string name="warna">Warna</string>
+    <string name="size">Size</string>
+    <string name="diskon_18">Ongkir gratis</string>
+    <string name="todo">TODO</string>
+</resources>
